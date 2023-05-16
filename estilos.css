@@ -1,0 +1,23 @@
+.tarjeta{
+    display: inline-block;
+    background-color: black;
+    color: pink;
+    margin: 20px
+}
+
+figcaption{
+    padding: 10px 0;
+    text-align: center;
+}
+
+.rotar-45{
+    transform: rotate(45deg);
+}
+
+.rotar-120{
+    transform: rotate(120deg);
+}
+
+.sepia{
+    filter:sepia();
+}
